@@ -6,7 +6,7 @@ Software Developer and Top G
 
 * 🌍  I'm based in Rotterdam, The Netherlands
 * ✉️  You can contact me at [nordinvandijk@icloud.com](mailto:nordinvandijk@icloud.com)
-* 🚀  I'm currently working on [AM-i Carstock](http://www.am-i.nl/carstock/)
+* 🚀  I'm currently working on [BlackComet](https://www.blackcomet.net)
 
 ### Skills
 
